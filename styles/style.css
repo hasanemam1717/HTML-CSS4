@@ -1,0 +1,80 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: cursive;
+}
+body{ background: linear-gradient(45deg, #b400ff, white);}
+header{   }
+.logo{}
+.logo h1{    color: #f2efea;
+    font-weight: 600;
+    font-family: monospace;
+    margin-left: 3%;
+    font-size: 33px;}
+.navber{margin-left: 46%;}
+.navber ul {    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    font-size: 30px;
+    margin-top: -3%;
+    font-family: cursive;}
+.navber ul li{}
+.navber ul li a{       text-decoration: none;
+     font-weight: 600;}
+article{}     
+article header{}
+article header h1{    color: black;
+    margin-left: 40%;
+    margin-top: 60px;}
+article header audio{    margin-left: 34%;
+    width: 25%;}
+article header p{    width: 36%;
+    text-align: justify;
+    margin-left: 29%;
+}
+article main{     width: 25%;
+    margin-left: 57%;
+    margin-top: 4%;}
+article main a{margin-left: 35%;}
+article main a img{    width: 100%;
+    border: 3px solid gray;
+    border-radius: 10px;}
+article main h1{    color: white;
+    margin-top: 10%;}
+article main p{text-align: justify;
+    color: #09095e;}
+section h1{    position: absolute;
+    color: #0c0b75;
+    margin-left: 4%;
+    font-size: 30px;
+    margin-top: -17%;}
+section video{width: 25%;
+    border: 5px solid;
+    border-radius: 10px;
+    color: #4e4e60;
+    margin-left: 6%;
+    margin-top: -15%;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
