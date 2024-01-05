@@ -54,9 +54,19 @@ section video{width: 25%;
     color: #4e4e60;
     margin-left: 6%;
     margin-top: -15%;}
-
-
-
+.one{}
+.one header{}
+.one header nav{    padding: 5%;}
+.one header nav ul{    display: flex;
+    list-style: none;
+    margin-left: 45%;
+    margin-top: 5%;
+    font-size: 28px;
+}
+.one header nav ul li{margin-left: 16%;
+    font-weight: 600;}
+.one header nav ul li a{    text-decoration: none;
+    color: #000092;}
 
 
 
